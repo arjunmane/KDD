@@ -12,7 +12,7 @@
 	Life expectancy is a reflection on the quality of life in a country, since individuals can hope to live longer lives. It is an estimate of an individual's lifespan derived from averaging the age all individuals who die in a particular year. Our project deals with determining the life expectancy of a region based on analysis of immunization factors, mortality factors, economic factors, social factors and other health related factors. We take into account these factors across ethnicity and geographical regions. Since the observations this dataset are based on different countries, it will be easier for a country to determine the predicting factor which is contributing to lower value of life expectancy. On performing analysis on the data, we produce life expectancy as our model’s outcome. This will help in suggesting a country which area should be given importance in order to efficiently improve the life expectancy of its population.
 	
 ### Data and Source description
-	The dataset is acquired from [Kaggle] (https://www.kaggle.com/kumarajarshi/life-expectancy-who/)
+The dataset is acquired from [Kaggle](https://www.kaggle.com/kumarajarshi/life-expectancy-who/).
 The dataset related to life expectancy focuses on, the health factors of 193 countries and the details have been collected from WHO. The data consists of 22 Columns and 2938 rows. Our model’s predicting value will be Life expectancy.
 
 ### Application of the CRISP-DM Process
